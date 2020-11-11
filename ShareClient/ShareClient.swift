@@ -41,7 +41,7 @@ public enum KnownShareServers: String {
          https://github.com/dabear/NightscoutShareServer
     */
 
-     case CUSTOM="https://nightscoutshareserver4caf.azurewebsites.net/"
+     case CUSTOM="https://sharedragos.azurewebsites.net/"
 }
 
 // From the Dexcom Share iOS app, via @bewest and @shanselman:
